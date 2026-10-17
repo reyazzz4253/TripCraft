@@ -1,7 +1,5 @@
 # TripCraft – Smart Travel Planner (ReactJS SPA)
 
-Built with React 18 + React Router 6 + PropTypes, bundled with **Parcel** (no Vite).
-
 ## Run locally
 ```
 npm install
