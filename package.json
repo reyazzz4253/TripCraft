@@ -1,0 +1,19 @@
+{
+  "name": "tripcraft",
+  "version": "1.0.0",
+  "private": true,
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html --port 3000",
+    "build": "parcel build index.html --public-url ./ --dist-dir dist"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
